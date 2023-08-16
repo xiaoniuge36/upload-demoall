@@ -1,0 +1,1 @@
+{"version":"0.0.0","name":"vite-project","dependencies":{"@babel/eslint-parser":{"version":"7.22.5"},"@types/jszip":{"version":"3.4.1"},"autoprefixer":{"version":"10.4.14"},"axios":{"version":"0.24.0"},"localforage":{"version":"1.10.0"},"spark-md5":{"version":"3.0.2"},"vue":{"version":"3.3.4"}}}
